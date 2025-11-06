@@ -1,0 +1,5 @@
+{
+  "name": "Modern Eats Menu",
+  "description": "A modern, attractive, and responsive restaurant menu application, inspired by popular food delivery app UIs. It features a clean layout with category navigation, item browsing, and a cart summary.",
+  "requestFramePermissions": []
+}
